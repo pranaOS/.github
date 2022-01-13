@@ -1,5 +1,5 @@
 # pranaOS
-- A unix operating system built using clang
+- A unix operating system built using c++ / c
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/pranaOS/pranaOS/master/imgs/eagle.jpeg" width="200" height="200">
@@ -23,6 +23,7 @@
 
 ## Have Any Issues??:
 - contact our [discord](https://discord.gg/XmpBTmy9Bz)
+- or emails us: officialpranaos@gmail.com
 
 ## Social Media:
 - [twitter](https://twitter.com/os_prana)
