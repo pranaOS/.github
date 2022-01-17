@@ -44,6 +44,7 @@
 ## Inspired by:
 - [SerenityOS](https://github.com/SerenityOS/Serenity)
 - [macOS](https://github.com/apple/darwin-xnu)
+- [Linux](https://github.com/torvalds/linux)
 
 ## pranaOS project structure
 - pranaOS [project structure](https://github.com/pranaOS/pranaOS/blob/master/docs/projectstructure.md) in a plain markdown text
