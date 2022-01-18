@@ -28,6 +28,7 @@
 ## Social Media:
 - [twitter](https://twitter.com/os_prana)
 - [discord](https://discord.gg/XmpBTmy9Bz)
+- [instagram](https://www.instagram.com/officialpranaos/)
 
 ## Contribtuions
 - pranaOS is an open-source project you can contribute to it :)
